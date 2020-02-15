@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Archivo" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAIAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Archivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.ArchivoTorrent" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArchivoTorrent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.ArchivoXml" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArchivoXml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Form1" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiQAAAEAACAAABACAACBAIICgQI8AAAAEHAAAAgAgAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Form2" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAACAAABAAAACAQAACAAAYAAAAEGAAAAAIAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Form3" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAQAACAAAYAAAAEGAAAAAIAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Form4" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAAAACBAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.NodoArbolRecurso" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodoArbolRecurso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Program" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.RecursoTorrent" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACQAAIAAAAAQAAAEAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>RecursoTorrent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Repositorio" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAAQAAAIAA=</HashCode>
+      <FileName>Repositorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Properties.Resources" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pro1.Properties.Settings" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
